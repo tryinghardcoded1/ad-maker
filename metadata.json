@@ -1,0 +1,5 @@
+{
+  "name": "Ad Maker",
+  "description": "A tool to preview digital advertisements across major platforms like Google, Facebook, Instagram, and TikTok before posting.",
+  "requestFramePermissions": []
+}
